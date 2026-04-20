@@ -1,0 +1,46 @@
+#logo1{
+    width: 300px;
+    height: 120px;
+    float: left;
+    padding-right: 100px;
+}
+
+
+.menu{
+    padding: 20px;
+    height: 50px;
+    width: 100%
+}
+
+.whole_header{
+    background-color: red;
+}
+
+#header_image1{
+    border:1px solid black;
+    width: 100%;
+    height:300px;
+    align:center;
+    
+}
+
+.details{
+    float:left;
+   border:1px solid black;
+    width: 50%;
+}
+
+
+
+#pictures1{
+    width: 700px ;
+    height: 800px;
+}
+
+.footer{
+    padding: 30px ;
+    background-color: green;
+    text-align: center;
+    height: 100px;
+}
+
